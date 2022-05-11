@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-list-platzi/static/css/main.06d12159.css",
+    "main.js": "/todo-list-platzi/static/js/main.2601679d.js",
+    "static/media/check.svg": "/todo-list-platzi/static/media/check.78f06bb79bc1ae1517f4739f9d1b970a.svg",
+    "index.html": "/todo-list-platzi/index.html",
+    "static/media/close.svg": "/todo-list-platzi/static/media/close.bc94c0e106d5800f62c18cb989c570c2.svg",
+    "main.06d12159.css.map": "/todo-list-platzi/static/css/main.06d12159.css.map",
+    "main.2601679d.js.map": "/todo-list-platzi/static/js/main.2601679d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d12159.css",
+    "static/js/main.2601679d.js"
+  ]
+}
